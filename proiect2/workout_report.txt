@@ -1,0 +1,10 @@
+==================================================
+          WORKOUT REPORT
+==================================================
+  Activity Profile:  Running
+  Tracking Duration: 4 days
+  Total Energy Burn: 2497 kcal
+  Average per Day:   624 kcal/day
+--------------------------------------------------
+  Status: EXCELLENT! High energy output. Keep it up!
+==================================================

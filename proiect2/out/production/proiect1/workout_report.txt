@@ -1,0 +1,17 @@
+==================================================
+          WORKOUT REPORT           
+==================================================
+  Activity Profile:  Cycling
+  Tracking Duration: 7 days
+  Total Energy Burn: 2706 kcal
+  Average per Day:   386 kcal/day
+--------------------------------------------------
+1. day: In 30 active minutes 302 kcal was burned
+2. day: In 45 active minutes 535 kcal was burned
+3. day: In 20 active minutes 254 kcal was burned
+4. day: In 60 active minutes 655 kcal was burned
+5. day: In 10 active minutes 84 kcal was burned
+6. day: In 50 active minutes 630 kcal was burned
+7. day: In 20 active minutes 246 kcal was burned
+--------------------------------------------------
+  Status: EXCELLENT! High energy output. Keep it up!
